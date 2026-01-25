@@ -1,1 +1,1 @@
-# my_python_app
+# This is a repo for learning 'how to github'
